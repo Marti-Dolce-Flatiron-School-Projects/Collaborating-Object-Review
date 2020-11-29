@@ -56,8 +56,16 @@ Author
 ```
 - [ ] Create Console to visually test
 * Add rake file
+* Add rakelib (if required)
+* Add lib with modular tasks (if required)
+* Add tasks or task files (in namespace)
+* Declare all required dependencies
+* Add prerequisites
 
-## Resources List
+## Resources List: Rake
+*Basic Rake by Jim Weirich (2012)
+[https://www.youtube.com/watch?v=AFPWDzHWjEY]
+
 *Ruby Guides:*
 [https://www.rubyguides.com/2019/02/ruby-rake/]
 
@@ -66,3 +74,4 @@ Author
 
 *ruby.github.io*
 [https://github.com/ruby/rake]
+

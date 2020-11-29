@@ -54,7 +54,7 @@ Author
     #stories
       has an empty array of stories when initialized ...
 ```
-- [ ] Create Console to visually test
+- [x] Create Console to visually test
 * Add rake file
 * Add rakelib (if required)
 * Add lib with modular tasks (if required)

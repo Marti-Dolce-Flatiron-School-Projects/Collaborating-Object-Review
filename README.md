@@ -23,7 +23,7 @@ hemingway.stories #=> [#{Story},#{Story})
 ## TASKS   
 - [x] Generate spec tests + gem files. Res. bundler
 ```ruby
-  % spec --init: creates .rspec and spec.rb
+  % rspec --init: creates .rspec and spec.rb
   % bundler init: creates project gemfile
   % add requirements to gemfile/gemfile.lock
   % use bundle install to update/add gems
